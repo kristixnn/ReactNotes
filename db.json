@@ -1,0 +1,29 @@
+{
+  "user": [
+    {
+      "id": "kys",
+      "name": "Kristiyan",
+      "password": "1234",
+      "email": "ktashev@yahoo.com",
+      "phone": "0897595360",
+      "gender": "male"
+    },
+    {
+      "id": "user2",
+      "name": "osamabinladen",
+      "password": "1234",
+      "email": "osama@yahoo.com",
+      "phone": "132165156",
+      "gender": "female"
+    },
+    {
+      "id": "mrazq beli",
+      "name": "Kristiyan Tashev",
+      "password": "1234",
+      "email": "mrcherni@yahoo.com",
+      "phone": "0897595360",
+      "gender": "male"
+    }
+  ],
+  "notes": []
+}
